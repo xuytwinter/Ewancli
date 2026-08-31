@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Ewancli Round Reflect</title>
+  <desc id="desc">Green gradient circle with rounded sunglasses, a central bridge, bright reflections and a serious angled mouth.</desc>
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EDFF80"/><stop offset="0.48" stop-color="#9BEF58"/><stop offset="1" stop-color="#3CC47B"/></linearGradient>
+    <linearGradient id="lens" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3D5152"/><stop offset="1" stop-color="#0B1114"/></linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="220" fill="url(#face)"/>
+  <path d="M102 230c0-10 8-18 18-18h91c18 0 32 14 32 32v27c0 20-16 36-36 36h-61c-21 0-38-15-41-36zm308 0c0-10-8-18-18-18h-91c-18 0-32 14-32 32v27c0 20 16 36 36 36h61c21 0 38-15 41-36z" fill="#0A1013"/>
+  <path d="M125 235h83c10 0 18 8 18 18v13c0 13-10 23-23 23h-52c-14 0-25-10-27-24zm179 18c0-10 8-18 18-18h65l1 30c-2 13-13 24-27 24h-52c-13 0-23-10-23-23z" fill="url(#lens)"/>
+  <path d="M230 252h52" stroke="#0A1013" stroke-width="14" stroke-linecap="round"/>
+  <path d="M143 246l29-9M172 247l16-5M326 246l29-9M353 247l14-5" stroke="#D9FFF0" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+  <path d="M230 374l26-21 26 21" fill="none" stroke="#0A1013" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>

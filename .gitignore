@@ -1,9 +1,9 @@
 # 环境变量文件（包含敏感信息）
 .env
-.paicli/*
-!.paicli/
-!.paicli/PAI.md
-PAI.local.md
+.ewancli/*
+!.ewancli/
+!.ewancli/EWAN.md
+EWAN.local.md
 
 # 编译输出
 target/
@@ -21,4 +21,5 @@ target/
 .DS_Store
 Thumbs.db
 /reports
+.runtime/
 temp_articles.json
